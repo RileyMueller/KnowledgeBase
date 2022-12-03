@@ -29,14 +29,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```npm start```
 
-    Make a POST request to the /parse endpoint with the following JSON in the request body:
-
-{
-  "text": "<text to process>",
-  "context": "<context for the text>"
-}
-
 ## Example
+
+For now since there is no frontend, to run the api you do use curl
 
 curl -X POST \
   http://localhost:3000/parse \
