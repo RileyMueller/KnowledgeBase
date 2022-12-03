@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules
+
+# Build files
+dist
+
+# Test files
+coverage
+
+# IDE files
+.vscode
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Serverless directories
+.serverless
+
+# Local config files
+.env
+.tmp
+
+# Compiled files
+*.js.map

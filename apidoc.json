@@ -1,0 +1,8 @@
+{
+    "name": "KnowledgeBase",
+    "version": "1.0.0",
+    "description": "A simple API that uses GPT-3 to extract facts from text and returns them in a JSON format.",
+    "title": "KnowledgeBase API",
+    "url" : "http://localhost:3000"
+  }
+  
